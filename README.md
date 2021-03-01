@@ -18,7 +18,7 @@
 
 <br />
 
-### 📌 About Me 
+### 📍 About Me 
 👨‍💻I am passionate about WebDev and am an avid learner. Currently I am pursuing #</br>
 ♟️Apart from that I am a Chess aficionado</br>
 🐈 And yes, I LOVE CATS
