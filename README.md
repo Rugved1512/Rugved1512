@@ -38,7 +38,7 @@
 ![Rugved's github stats](https://github-readme-stats.vercel.app/api?username=Rugved1512&show_icons=true&hide_border=true)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Rugved1512.Rugved1512)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rugved1512&layout=compact)](https://github.com/Rugved1512/github-readme-stats)
 
 
 
