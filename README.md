@@ -39,7 +39,7 @@
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Rugved1512.Rugved1512)
 <br/r>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rugved1512&layout=compact)](https://github.com/Rugved1512/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rugved1512&layout=compact)](https://github.com/Rugved1512/github-readme-stats)
 
 
 
