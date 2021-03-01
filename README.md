@@ -18,9 +18,10 @@
 
 <br />
 
-### About Me 🚀
+### 📌 About Me 
 👨‍💻I am passionate about WebDev and am an avid learner. Currently I am pursuing #</br>
-Apart from that I am a Chess aficionado ♟️</br>
+♟️Apart from that I am a Chess aficionado</br>
+🐈 And yes, I LOVE CATS
 
 
 
@@ -34,9 +35,9 @@ Apart from that I am a Chess aficionado ♟️</br>
 
 
 
-![Rugved's github stats](https://github-readme-stats.vercel.app/api?username=kunal-kushwaha&show_icons=true&hide_border=true)
+![Rugved's github stats](https://github-readme-stats.vercel.app/api?username=Rugved1512&show_icons=true&hide_border=true)
 <br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.kunal-kushwaha)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Rugved1512.Rugved1512)
 
 
 
