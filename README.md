@@ -18,22 +18,10 @@
 
 <br />
 
-### 📍 About Me 
-👨‍💻I am passionate about WebDev and am an avid learner. Currently I am pursuing #</br>
-♟️Apart from that I am a Chess aficionado</br>
-🐈 And yes, I LOVE CATS
-
-
-
-
-
-
-
-
-
-
-
-
+### About Me 
+👨‍💻 I love WebDev and am an avid learner. Currently I am pursuing #</br>
+♟️ Chess is another things I die for.</br>
+🐈  And yes, I LOVE CATS
 
 ![Rugved's github stats](https://github-readme-stats.vercel.app/api?username=Rugved1512&show_icons=true&hide_border=true)
 <br />
@@ -42,6 +30,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rugved1512&layout=compact)
 
 
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 
 
