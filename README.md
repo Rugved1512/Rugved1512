@@ -19,9 +19,6 @@
 <br />
 
 ### About Me 
-👨‍💻 I love WebDev and am an avid learner. Currently I am pursuing #</br>
-♟️ Chess is another things I die for.</br>
-🐈  And yes, I LOVE CATS
 
 ![Rugved's github stats](https://github-readme-stats.vercel.app/api?username=Rugved1512&show_icons=true&hide_border=true)
 <br />
