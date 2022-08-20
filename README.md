@@ -14,9 +14,6 @@
 
 <hr/>
 <br>
-  
-  ![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rugved1512&theme=react-dark)
-
 
   <h3 align="left">Connect with me</h3>
 <p align="left">
@@ -85,6 +82,8 @@
     />
   </a>
 <br>
+
+  ![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rugved1512&theme=react-dark)
 
 <h2 align="left">An Overview</h2>
 
