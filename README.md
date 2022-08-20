@@ -88,35 +88,13 @@
 
 ![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rugved1512&theme=react-dark)
 
-|💻Most Used Languages & Stats 📈|🎯 Github Streaks & Trophies 🏆 |
-|-----------------------------------|----------------------------------|
-
 |💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
 |-----------------------------------|----------------------------------|
-|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-RGB&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/nikhil-RGB)|[![Nikhil's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=nikhil-RGB&theme=midnight-purple&hide_border=true)](https://github.com/nikhil-RGB)
-|[![Statistics](https://github-readme-stats.vercel.app/api?username=nikhil-RGB&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/nikhil-RGB)|
+|[![Most UsedLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rugved1512&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/Rugved1512)|[![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Rugved1512&theme=github-dark&hide_border=true)](https://github.com/Rugved1512)
+|[![Stats](https://github-readme-stats.vercel.app/api?username=Rugved1512&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/Rugved1512)|
 <br>
 <h1 >Total Profile Visits:</h1> 
 
-![Visitor Count](https://profile-counter.glitch.me/nikhil-RGB/count.svg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rugved1512&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/Rugved1512)  
-|![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rugved15121&theme=github-dark)](https://git.io/streak-stats)
-|![Stats](https://github-readme-stats.vercel.app/api?username=Rugved1512&theme=chartreuse-dark_icons=true)
-<br>
-
 ![Visitor Count](https://profile-counter.glitch.me/Rugved1512/count.svg)
+
 <hr/>
