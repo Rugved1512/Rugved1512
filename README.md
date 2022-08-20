@@ -91,7 +91,7 @@
 |💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
 |-----------------------------------|----------------------------------|
 |[![Most UsedLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rugved1512&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/Rugved1512)|[![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Rugved1512&theme=github-dark&hide_border=true)](https://github.com/Rugved1512)
-|[![Stats](https://github-readme-stats.vercel.app/api?username=Rugved1512&show_icons=true&theme=github-dark&hide_title=true)](https://github.com/Rugved1512)|
+|[![Stats](https://github-readme-stats.vercel.app/api?username=Rugved1512&show_icons=true&theme=chartreuse-dark&hide_title=true)](https://github.com/Rugved1512)|
 <br>
 <h1 >Total Profile Visits:</h1> 
 
