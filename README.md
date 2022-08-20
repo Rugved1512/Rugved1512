@@ -34,6 +34,11 @@
       src="https://skillicons.dev/icons?i=instagram)](https://skillicons.dev"
       alt="Rugved Narvenker Instagram"
   /></a>
+   <a href="discordapp.com/users/Rugved#9229" target="blank"
+    ><img
+      src="https://skillicons.dev/icons?i=discord)](https://skillicons.dev"
+      alt="Rugved Narvenker Discord"
+  /></a>
   <a href="https://www.chess.com/member/rugved-narvenker" target="blank"
     ><img
       align="center"
@@ -65,7 +70,7 @@
 <h5 align="left">Markup/Stylesheet Languages</h5>
  <a href="#" target="_blank">
     <img
-      src="https://skillicons.dev/icons?i=html,css)](https://skillicons.dev"
+      src="https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev"
       alt="Markup/Stylesheet Languages"
     />
   </a>
@@ -81,7 +86,7 @@
 
 <h2 align="left">An Overview</h2>
 
-|💻Most Used Languages & Stats 📈|🎯 Github Streaks & Trophies 🏆|
+|💻Most Used Languages & Stats 📈|🎯 Github Streaks & Trophies 🏆 |
 |-----------------------------------|----------------------------------|
 
 |[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rugved1512&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/Rugved1512)  
