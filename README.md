@@ -82,6 +82,7 @@
     />
   </a>
 <br>
+<hr/>
 
   ![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rugved1512&theme=react-dark)
 
