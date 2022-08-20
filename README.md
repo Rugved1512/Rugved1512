@@ -1,6 +1,6 @@
 ### Hey there ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Rugved!
 
-- I am proficient with Front-end Web Development using <strong>HTML & CSS/strong>. Trying to add JS to the list. 
+- I am proficient with Front-end Web Development using <strong>HTML & CSS</strong>. Trying to add JS to the list. 
 - Currently, I am learning <strong>C++</strong> and <strong>Java</strong>.<br>
 - I will also try & get started with Competitive Programming (CP) once I am done learning C++.
 - My Email- rugved.narvenker@gmail.com<br>
