@@ -7,8 +7,6 @@
 - Also, I happen to be a Chess Aficionado. If you are one too, lets connect on [Chess.com](https://www.chess.com/member/rugved-narvenker).<br>
 - Proudly Indian :india:
 
-
-
 <hr/>
 <br>
 
@@ -24,26 +22,31 @@
 
   <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
   <a href="https://www.linkedin.com/in/rugved-narvenker/" target="blank">
     <img
       src="https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev"
       alt="Rugved Narvenker LinkedIn"
   /></a>
+  
   <a href="https://www.instagram.com/rugvednarvenker/" target="blank"
     ><img
       src="https://skillicons.dev/icons?i=instagram)](https://skillicons.dev"
       alt="Rugved Narvenker Instagram"
   /></a>
+  
   <a href="https://twitter.com/NarvenkerRugved" target="blank">
     <img
       src="https://skillicons.dev/icons?i=twitter)](https://skillicons.dev"
       alt="Rugved Narvenker LinkedIn"
   /></a>
+  
   <a href="discordapp.com/users/Rugved#9229" target="blank"
     ><img
       src="https://skillicons.dev/icons?i=discord)](https://skillicons.dev"
       alt="Rugved Narvenker Discord"
   /></a>
+  
   <a href="https://www.chess.com/member/rugved-narvenker" target="blank"
     ><img
       align="center"
@@ -52,6 +55,7 @@
       height="40"
       width="40"
   /></a>  
+  
   <a href="mailto: rugved.narvenker@gmail.com">
     <img 
       align="center" 
@@ -98,7 +102,4 @@
 |![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rugved15121&theme=github-dark)](https://git.io/streak-stats)
 |![Stats](https://github-readme-stats.vercel.app/api?username=Rugved1512&theme=chartreuse-dark_icons=true)
 <br>
-
-
-
-
+<hr/>
