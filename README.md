@@ -23,17 +23,13 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/rugved-narvenker/" target="blank">
     <img
-      align="center"
       src="https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev"
       alt="Rugved Narvenker LinkedIn"
   /></a>
   <a href="https://www.instagram.com/rugvednarvenker/" target="blank"
     ><img
-      align="center"
       src="https://skillicons.dev/icons?i=instagram)](https://skillicons.dev"
       alt="Rugved Narvenker Instagram"
-      height="30"
-      width="40"
   /></a>
   <a href="https://www.chess.com/member/rugved-narvenker" target="blank"
     ><img
