@@ -21,22 +21,24 @@
   <a href="https://www.linkedin.com/in/rugved-narvenker/" target="blank">
     <img
       align="center"
-      src="https://skillicons.dev/icons?i=linkedin,)](https://skillicons.dev"
+      src="https://img.icons8.com/color/48/000000/linkedin.png"
       alt="Rugved Narvenker LinkedIn"
+      height="60"
+      width="60"
   /></a><a href="https://www.instagram.com/rugvednarvenker/" target="blank"
     ><img
       align="center"
-      src="https://skillicons.dev/icons?i=instagram,)](https://skillicons.dev"
+      src="https://img.icons8.com/fluency/60/000000/instagram-new.png"
       alt="Rugved Narvenker Instagram"
   /></a><a href="https://twitter.com/NarvenkerRugved" target="blank">
     <img
       align="center"   
-      src="https://skillicons.dev/icons?i=twitter,)](https://skillicons.dev"
-      alt="Rugved Narvenker LinkedIn"
+      src="https://img.icons8.com/color/60/000000/twitter-squared.png"
+      alt="Rugved Narvenker Twitter"
   /></a><a href="discordapp.com/users/Rugved#9229" target="blank"
     ><img
       align="center"
-      src="https://skillicons.dev/icons?i=discord,)](https://skillicons.dev"
+      src="https://img.icons8.com/color/60/000000/discord--v2.png"
       alt="Rugved Narvenker Discord"
   /></a>
   <a href="https://www.chess.com/member/rugved-narvenker" target="blank"
@@ -44,13 +46,11 @@
       align="center"
       src="https://img.icons8.com/color/48/1A1A1A/chess-com.png"
       alt="Rugved Narvenker Chesscom"
-      height="40"
-      width="40"
   /></a>  
   <a href="mailto: rugved.narvenker@gmail.com">
     <img 
       align="center" 
-      src="https://img.icons8.com/color/48/000000/gmail--v1.png" 
+      src="https://img.icons8.com/color/50/000000/gmail--v1.png" 
       alt="Rugved Narvenker Email" 
       height="40" 
       width="40"
@@ -67,7 +67,7 @@
     />
   </a>
   
-<h4 align="left">Markup/Stylesheet Languages</h5>
+<h4 align="left">Markup/Stylesheet Languages</h4>
  <a href="#" target="_blank">
     <img
       src="https://skillicons.dev/icons?i=html,css,bootstrap,)](https://skillicons.dev"
@@ -75,7 +75,7 @@
     />
   </a>
   
-<h4 align="left">Tools</h5>
+<h4 align="left">Tools</h4>
  <a href="#" target="_blank">
     <img
       src="https://skillicons.dev/icons?i=git,github,vscode,)](https://skillicons.dev"
