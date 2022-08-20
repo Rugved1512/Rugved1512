@@ -27,8 +27,10 @@
   <a href="https://www.codechef.com/users/rugved15" target="blank">
     <img
       align="center"
-      src="#"
+      src="Untitleddesign.png"
       alt="Rugved Narvenker CodeChef"
+      height="48"
+      width="48"
   /></a>
   <a href="https://www.instagram.com/rugvednarvenker/" target="blank"
     ><img
