@@ -24,15 +24,13 @@
   <a href="https://www.linkedin.com/in/rugved-narvenker/" target="blank">
     <img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      src="https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev"
       alt="Rugved Narvenker LinkedIn"
-      height="30"
-      width="40"
   /></a>
   <a href="https://www.instagram.com/rugvednarvenker/" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      src="https://skillicons.dev/icons?i=instagram)](https://skillicons.dev"
       alt="Rugved Narvenker Instagram"
       height="30"
       width="40"
@@ -42,7 +40,7 @@
       align="center"
       src="https://img.icons8.com/color/48/1A1A1A/chess-com.png"
       alt="Rugved Narvenker Chesscom"
-      height="30"
+      height="40"
       width="40"
   /></a>  
   <a href="mailto: rugved.narvenker@gmail.com">
@@ -50,7 +48,7 @@
       align="center" 
       src="https://img.icons8.com/color/48/000000/gmail--v1.png" 
       alt="Rugved Narvenker Email" 
-      height="30" 
+      height="40" 
       width="40"
   /></a>
 </p>
