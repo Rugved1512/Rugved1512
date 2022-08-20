@@ -8,8 +8,6 @@
 - Proudly Indian :india:
 
 <hr/>
-<br>
-
 ### Clubs/Organizations
 - Joining Soon !
 
