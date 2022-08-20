@@ -20,22 +20,22 @@
   
   <a href="https://www.linkedin.com/in/rugved-narvenker/" target="blank">
     <img
-      src="https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev"
+      src="https://skillicons.dev/icons?i=linkedin,)](https://skillicons.dev"
       alt="Rugved Narvenker LinkedIn"
   /></a>
   <a href="https://www.instagram.com/rugvednarvenker/" target="blank"
     ><img
-      src="https://skillicons.dev/icons?i=instagram)](https://skillicons.dev"
+      src="https://skillicons.dev/icons?i=instagram,)](https://skillicons.dev"
       alt="Rugved Narvenker Instagram"
   /></a>
   <a href="https://twitter.com/NarvenkerRugved" target="blank">
     <img
-      src="https://skillicons.dev/icons?i=twitter)](https://skillicons.dev"
+      src="https://skillicons.dev/icons?i=twitter,)](https://skillicons.dev"
       alt="Rugved Narvenker LinkedIn"
   /></a> 
   <a href="discordapp.com/users/Rugved#9229" target="blank"
     ><img
-      src="https://skillicons.dev/icons?i=discord)](https://skillicons.dev"
+      src="https://skillicons.dev/icons?i=discord,)](https://skillicons.dev"
       alt="Rugved Narvenker Discord"
   /></a>
   <a href="https://www.chess.com/member/rugved-narvenker" target="blank"
@@ -61,7 +61,7 @@
 <h4 align="left">Programming Languages</h5>
  <a href="#" target="_blank">
     <img
-      src="https://skillicons.dev/icons?i=c,cpp,js)](https://skillicons.dev"
+      src="https://skillicons.dev/icons?i=c,cpp,js,)](https://skillicons.dev"
       alt="Programming Languages"
     />
   </a>
@@ -69,7 +69,7 @@
 <h4 align="left">Markup/Stylesheet Languages</h5>
  <a href="#" target="_blank">
     <img
-      src="https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev"
+      src="https://skillicons.dev/icons?i=html,css,bootstrap,)](https://skillicons.dev"
       alt="Markup/Stylesheet Languages"
     />
   </a>
@@ -77,7 +77,7 @@
 <h4 align="left">Tools</h5>
  <a href="#" target="_blank">
     <img
-      src="https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev"
+      src="https://skillicons.dev/icons?i=git,github,vscode,)](https://skillicons.dev"
       alt="Tools"
     />
   </a>
