@@ -84,9 +84,9 @@
 <br>
 <hr/>
 
-  ![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rugved1512&theme=react-dark)
-
 <h2 align="left">An Overview</h2>
+
+![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rugved1512&theme=react-dark)
 
 |💻Most Used Languages & Stats 📈|🎯 Github Streaks & Trophies 🏆 |
 |-----------------------------------|----------------------------------|
