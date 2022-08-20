@@ -20,21 +20,22 @@
   
   <a href="https://www.linkedin.com/in/rugved-narvenker/" target="blank">
     <img
+      align="center"
       src="https://skillicons.dev/icons?i=linkedin,)](https://skillicons.dev"
       alt="Rugved Narvenker LinkedIn"
-  /></a>
-  <a href="https://www.instagram.com/rugvednarvenker/" target="blank"
+  /></a><a href="https://www.instagram.com/rugvednarvenker/" target="blank"
     ><img
+      align="center"
       src="https://skillicons.dev/icons?i=instagram,)](https://skillicons.dev"
       alt="Rugved Narvenker Instagram"
-  /></a>
-  <a href="https://twitter.com/NarvenkerRugved" target="blank">
+  /></a><a href="https://twitter.com/NarvenkerRugved" target="blank">
     <img
+      align="center"   
       src="https://skillicons.dev/icons?i=twitter,)](https://skillicons.dev"
       alt="Rugved Narvenker LinkedIn"
-  /></a> 
-  <a href="discordapp.com/users/Rugved#9229" target="blank"
+  /></a><a href="discordapp.com/users/Rugved#9229" target="blank"
     ><img
+      align="center"
       src="https://skillicons.dev/icons?i=discord,)](https://skillicons.dev"
       alt="Rugved Narvenker Discord"
   /></a>
