@@ -34,7 +34,12 @@
       src="https://skillicons.dev/icons?i=instagram)](https://skillicons.dev"
       alt="Rugved Narvenker Instagram"
   /></a>
-   <a href="https://discordapp.com/users/Rugved#9229/" target="blank"
+  <a href="https://twitter.com/NarvenkerRugved" target="blank">
+    <img
+      src="https://skillicons.dev/icons?i=twitter)](https://skillicons.dev"
+      alt="Rugved Narvenker LinkedIn"
+  /></a>
+  <a href="discordapp.com/users/Rugved#9229" target="blank"
     ><img
       src="https://skillicons.dev/icons?i=discord)](https://skillicons.dev"
       alt="Rugved Narvenker Discord"
