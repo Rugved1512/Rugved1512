@@ -5,7 +5,8 @@
 - I will also try & get started with Competitive Programming (CP) once I am done learning C++.
 - My Email- rugved.narvenker@gmail.com<br>
 - Also, I happen to be a Chess Aficionado. If you are one too, lets connect on [Chess.com](https://www.chess.com/member/rugved-narvenker).<br>
-- Proudly Indian ![image](https://user-images.githubusercontent.com/29044907/185759972-8f2e1650-fff5-4709-aab6-d3ac08c0ee60.png)
+- Proudly Indian ![image](https://user-images.githubusercontent.com/29044907/185760009-f2327724-8961-4a43-bdb0-6a4e1bcb3c99.png)
+
 
 
 <hr/>
