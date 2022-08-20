@@ -59,7 +59,7 @@
  
 
 <h3 align="left">Languages and Tools</h3>
-<h4 align="left">Programming Languages</h5>
+<h4 align="left">Programming Languages</h4>
  <a href="#" target="_blank">
     <img
       src="https://skillicons.dev/icons?i=c,cpp,js,)](https://skillicons.dev"
