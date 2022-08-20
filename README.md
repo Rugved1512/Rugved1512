@@ -21,21 +21,28 @@
   <a href="https://www.linkedin.com/in/rugved-narvenker/" target="blank">
     <img
       align="center"
-      src="https://img.icons8.com/color/48/000000/linkedin.png"
+      src="https://img.icons8.com/color/60/000000/linkedin.png"
       alt="Rugved Narvenker LinkedIn"
-      height="60"
-      width="60"
-  /></a><a href="https://www.instagram.com/rugvednarvenker/" target="blank"
+  /></a>
+  <a href="https://www.codechef.com/users/rugved15" target="blank">
+    <img
+      align="center"
+      src="#"
+      alt="Rugved Narvenker CodeChef"
+  /></a>
+  <a href="https://www.instagram.com/rugvednarvenker/" target="blank"
     ><img
       align="center"
       src="https://img.icons8.com/fluency/60/000000/instagram-new.png"
       alt="Rugved Narvenker Instagram"
-  /></a><a href="https://twitter.com/NarvenkerRugved" target="blank">
+  /></a>
+  <a href="https://twitter.com/NarvenkerRugved" target="blank">
     <img
       align="center"   
       src="https://img.icons8.com/color/60/000000/twitter-squared.png"
       alt="Rugved Narvenker Twitter"
-  /></a><a href="discordapp.com/users/Rugved#9229" target="blank"
+  /></a>
+  <a href="discordapp.com/users/Rugved#9229" target="blank"
     ><img
       align="center"
       src="https://img.icons8.com/color/60/000000/discord--v2.png"
