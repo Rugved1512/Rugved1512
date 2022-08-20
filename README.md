@@ -28,25 +28,21 @@
       src="https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev"
       alt="Rugved Narvenker LinkedIn"
   /></a>
-  
   <a href="https://www.instagram.com/rugvednarvenker/" target="blank"
     ><img
       src="https://skillicons.dev/icons?i=instagram)](https://skillicons.dev"
       alt="Rugved Narvenker Instagram"
   /></a>
-  
   <a href="https://twitter.com/NarvenkerRugved" target="blank">
     <img
       src="https://skillicons.dev/icons?i=twitter)](https://skillicons.dev"
       alt="Rugved Narvenker LinkedIn"
-  /></a>
-  
+  /></a> 
   <a href="discordapp.com/users/Rugved#9229" target="blank"
     ><img
       src="https://skillicons.dev/icons?i=discord)](https://skillicons.dev"
       alt="Rugved Narvenker Discord"
   /></a>
-  
   <a href="https://www.chess.com/member/rugved-narvenker" target="blank"
     ><img
       align="center"
@@ -55,7 +51,6 @@
       height="40"
       width="40"
   /></a>  
-  
   <a href="mailto: rugved.narvenker@gmail.com">
     <img 
       align="center" 
