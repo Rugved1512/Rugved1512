@@ -20,7 +20,7 @@
   ![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rugved1512&theme=react-dark)
 
 
-  <h3 align="left">Connect with me:</h3>
+  <h3 align="left">Connect with me</h3>
 <p align="left">
   
   <a href="https://www.linkedin.com/in/rugved-narvenker/" target="blank">
@@ -62,8 +62,8 @@
 </p>
  
 
-<h3 align="left">Languages and Tools:</h3>
-<h5 align="left">Programming Languages</h5>
+<h3 align="left">Languages and Tools</h3>
+<h4 align="left">Programming Languages</h5>
  <a href="#" target="_blank">
     <img
       src="https://skillicons.dev/icons?i=c,cpp,js)](https://skillicons.dev"
@@ -71,7 +71,7 @@
     />
   </a>
   
-<h5 align="left">Markup/Stylesheet Languages</h5>
+<h4 align="left">Markup/Stylesheet Languages</h5>
  <a href="#" target="_blank">
     <img
       src="https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev"
@@ -79,7 +79,7 @@
     />
   </a>
   
-<h5 align="left">Tools</h5>
+<h4 align="left">Tools</h5>
  <a href="#" target="_blank">
     <img
       src="https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev"
