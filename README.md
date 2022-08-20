@@ -97,4 +97,6 @@
 |![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rugved15121&theme=github-dark)](https://git.io/streak-stats)
 |![Stats](https://github-readme-stats.vercel.app/api?username=Rugved1512&theme=chartreuse-dark_icons=true)
 <br>
+
+![Visitor Count](https://profile-counter.glitch.me/Rugved1512/count.svg)
 <hr/>
