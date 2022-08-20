@@ -12,7 +12,6 @@
 ### Clubs/Organizations
 - Joining Soon !
 
-<br>  
 <hr/>
 <br>
   
