@@ -58,13 +58,34 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <h5 align="left">Programming Languages</h5>
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js)](https://skillicons.dev)
+ <a href="#" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=c,cpp,js)](https://skillicons.dev"
+      alt="Programming Languages"
+      width="40"
+      height="40"
+    />
+  </a>
   
 <h5 align="left">Markup/Stylesheet Languages</h5>
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+ <a href="#" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=html,css)](https://skillicons.dev"
+      alt="Markup/Stylesheet Languages"
+      width="40"
+      height="40"
+    />
+  </a>
   
 <h5 align="left">Tools</h5>
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+ <a href="#" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev"
+      alt="Tools"
+      width="40"
+      height="40"
+    />
+  </a>
 <br>
 
 <h2 align="left">An Overview</h2>
@@ -74,7 +95,7 @@
 
 |[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rugved1512&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/Rugved1512)  
 |![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rugved15121&theme=github-dark)](https://git.io/streak-stats)
-|![Stats](https://github-readme-stats.vercel.app/api?username=Rugv123@&theme=chartreuse-dark_icons=true)
+|![Stats](https://github-readme-stats.vercel.app/api?username=Rugv123&theme=chartreuse-dark_icons=true)
 <br>
 
 
