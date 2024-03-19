@@ -1,19 +1,15 @@
 ### Hey there ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Rugved!
 
-- I am proficient with Front-end Web Development using <strong>HTML & CSS</strong>. Trying to add JS to the list. 
-- Currently, I am learning <strong>C++</strong> and <strong>Java</strong>.<br>
-- I will also try & get started with Competitive Programming (CP) once I am done learning C++.
-- My Email- rugved.narvenker@gmail.com<br>
+- I am proficient at Full Stack Web Development using <strong>HTML & CSS and JS</strong>.
+- Intermediate Proficiency with ReactJS, Node.js, Django etc>.
+- Currently, I am working on <strong>DSA, Python and Java concepts</strong>
+- Personal Email- rugved.narvenker@gmail.com<br>
 - Also, I happen to be a Chess Aficionado. If you are one too, lets connect on [Chess.com](https://www.chess.com/member/rugved-narvenker).<br>
 - Proudly Indian :india:
 
 <hr/>
 
-### Clubs/Organizations
-- Joining Soon !
 
-<hr/>
-<br>
 
   <h3 align="left">Connect with me</h3>
 <p align="left">
